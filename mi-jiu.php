@@ -1,0 +1,1 @@
+<img src="images/rice-wine.jpeg" class="img-responsive" alt="Food Menu" />

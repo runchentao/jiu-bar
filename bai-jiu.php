@@ -1,0 +1,1 @@
+<img src="images/half-sea.jpg" class="img-responsive" alt="Food Menu" />
